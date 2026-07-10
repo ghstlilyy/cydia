@@ -1,16 +1,16 @@
 Package: com.ghostlilyy.respring-cli
-Version: 1.0-1+debug
+Version: 1.0-2+debug
 Architecture: iphoneos-arm
 Maintainer: ghstlilyy
 Installed-Size: 52
 Depends: mobilesubstrate
-Filename: debs/com.ghostlilyy.respring-cli_1.0-1+debug_iphoneos-arm.deb
-Size: 2302
-MD5sum: 9e2307d50b5ec8fc8f6ffbd8a2c5cfc0
-SHA1: 7d7eb92acdffc02f3d3f7158c41e35b4c28d60f5
-SHA256: 91b78e31cbcf42d37a76d4d246df1f11b485de15b27dc00c87fc39899b5de0ec
+Filename: debs/com.ghostlilyy.respring-cli_1.0-2+debug_iphoneos-arm.deb
+Size: 2210
+MD5sum: 7f72378c7f65f2bcbef60af5c715bd4c
+SHA1: d0e55d5f24ddf9e7ebf4beacc491f34b995f5d26
+SHA256: 067c61f5dd7d6abeaac1e17a8778d4a7f9eb8574604b33e530bdc9484e721cea
 Section: Utilities
-Description: Utility for quick reboot of the interface (SpringBoard) from the terminal with the respring command.
+Description: Fast SpringBoard restart utility via CLI.
 Author: ghstlilyy
 Name: Respring CLI
 

@@ -1,16 +1,16 @@
-Package: ghostlilyy
-Version: 0.0.1-2+debug
+Package: com.ghostlilyy.respring-cli
+Version: 1.0-1+debug
 Architecture: iphoneos-arm
-Maintainer: GhostLilyy
+Maintainer: ghstlilyy
 Installed-Size: 52
-Filename: debs/ghostlilyy-respring-cli.deb
-Size: 2186
-MD5sum: a7cf1cbc7007e57d26e76433aa491180
-SHA1: b80065d926ff6a0cb9b72739149ab97f46e8ed66
-SHA256: 67f8014c90302c2ef980f35655bf62b8ddfc636b1a0eb83946733d4100f0b58f
-Section: System
-Description: An awesome tool of some sort!!
-Tag: role::hacker
-Author: GhostLilyy
-Name: respring
+Depends: mobilesubstrate
+Filename: debs/com.ghostlilyy.respring-cli_1.0-1+debug_iphoneos-arm.deb
+Size: 2302
+MD5sum: 9e2307d50b5ec8fc8f6ffbd8a2c5cfc0
+SHA1: 7d7eb92acdffc02f3d3f7158c41e35b4c28d60f5
+SHA256: 91b78e31cbcf42d37a76d4d246df1f11b485de15b27dc00c87fc39899b5de0ec
+Section: Utilities
+Description: Утилита для быстрой перезагрузки интерфейса (SpringBoard) из терминала командой respring.
+Author: ghstlilyy
+Name: Respring CLI
 

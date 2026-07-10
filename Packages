@@ -10,7 +10,7 @@ MD5sum: 9e2307d50b5ec8fc8f6ffbd8a2c5cfc0
 SHA1: 7d7eb92acdffc02f3d3f7158c41e35b4c28d60f5
 SHA256: 91b78e31cbcf42d37a76d4d246df1f11b485de15b27dc00c87fc39899b5de0ec
 Section: Utilities
-Description: Утилита для быстрой перезагрузки интерфейса (SpringBoard) из терминала командой respring.
+Description: Utility for quick reboot of the interface (SpringBoard) from the terminal with the respring command.
 Author: ghstlilyy
 Name: Respring CLI
 

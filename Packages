@@ -30,3 +30,18 @@ Description: Fast SpringBoard restart utility via CLI command respring.
 Author: ghstlilyy
 Name: Respring CLI
 
+Package: com.ghostlilyy.respring-gui
+Version: 0.0.1-4+debug
+Architecture: iphoneos-arm
+Maintainer: GhostLilyy
+Installed-Size: 64
+Filename: debs/com.ghostlilyy.respring-gui_0.0.1-4+debug_iphoneos-arm.deb
+Size: 8254
+MD5sum: 510a1654108f5084cd73590bff311ab5
+SHA1: 6e1fadf0bde212ccf1d84cdbfcc32d5459388096
+SHA256: ac49e8c45cf4976a20a7481050b6657f273681e99e4fe8de8acfb7c0b7ade540
+Section: Utilities
+Description: A very useful app for doing respring with one Big Button!
+Author: GhostLilyy
+Name: Respring-GUI
+

@@ -1,0 +1,8 @@
+Origin: GhostLilyy Repo
+Label: GhostLilyy Repo
+Suite: stable
+Version: 1.0
+Codename: ios6
+Architectures: iphoneos-arm
+Components: main
+Description: Cydia репозиторий с полезными консольными утилитами, программами и кастомными твиками для старых версий iOS.

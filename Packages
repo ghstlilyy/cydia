@@ -1,0 +1,16 @@
+Package: ghostlilyy
+Version: 0.0.1-2+debug
+Architecture: iphoneos-arm
+Maintainer: GhostLilyy
+Installed-Size: 52
+Filename: debs/ghostlilyy-respring-cli.deb
+Size: 2186
+MD5sum: a7cf1cbc7007e57d26e76433aa491180
+SHA1: b80065d926ff6a0cb9b72739149ab97f46e8ed66
+SHA256: 67f8014c90302c2ef980f35655bf62b8ddfc636b1a0eb83946733d4100f0b58f
+Section: System
+Description: An awesome tool of some sort!!
+Tag: role::hacker
+Author: GhostLilyy
+Name: respring
+

@@ -1,3 +1,18 @@
+Package: com.ghostlilyy.legacytalk
+Version: 0.0.4-1+debug
+Architecture: iphoneos-arm
+Maintainer: GhostLilyy
+Installed-Size: 380
+Filename: debs/com.ghostlilyy.legacytalk_0.0.4-1+debug_iphoneos-arm.deb
+Size: 67932
+MD5sum: a9bca6831fddbcc0ce99e40f5ac29e50
+SHA1: ab9eabdedbd8e9abc2f6f814efcb1eb4eea7a2bc
+SHA256: 51882770b28c1f0a9fc8089ddb3560b9b19e11d6c265180d1cf4c3e010fcee86
+Section: Utilities
+Description: Messenger for legacy iOS devices
+Author: GhostLilyy
+Name: LegacyTalk
+
 Package: com.ghostlilyy.respring-cli
 Version: 1.0-2+debug
 Architecture: iphoneos-arm

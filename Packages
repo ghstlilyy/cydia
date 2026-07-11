@@ -45,3 +45,19 @@ Description: A very useful app for doing respring with one Big Button!
 Author: GhostLilyy
 Name: Respring-GUI
 
+Package: com.vlesscore.app
+Version: 0.4.0-1
+Architecture: iphoneos-arm
+Maintainer: notfence
+Depends: firmware (>= 6.0), mobilesubstrate
+Filename: debs/com.vlesscore.app_iphoneos-arm.deb
+Size: 3777534
+MD5sum: 6131327b328066e754761989d6fcc7a7
+SHA1: be665eb4ce15b7556b36b2310ac5d74dd8c83911
+SHA256: 16f5beff7f44848319281ffe02f196e01d22306676a33a1387a98bc1b46bd1f8
+Section: Networking
+Priority: optional
+Description: Full-device VLESS routing app
+Author: notfence
+Name: vless-core
+
